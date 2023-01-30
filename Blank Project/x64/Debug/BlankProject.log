@@ -1,0 +1,11 @@
+﻿  Renderer.cpp
+H:\Downloads\CSC8502 2022\Blank Project\Renderer.cpp(139,170): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Downloads\CSC8502 2022\Blank Project\Renderer.cpp(139,95): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Downloads\CSC8502 2022\Blank Project\Renderer.cpp(152,147): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Downloads\CSC8502 2022\Blank Project\Renderer.cpp(152,73): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Downloads\CSC8502 2022\Blank Project\Renderer.cpp(177,86): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Downloads\CSC8502 2022\Blank Project\Renderer.cpp(177,56): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Downloads\CSC8502 2022\Blank Project\Renderer.cpp(193,170): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Downloads\CSC8502 2022\Blank Project\Renderer.cpp(193,95): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+H:\Downloads\CSC8502 2022\Blank Project\Renderer.cpp(483,81): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  BlankProject.vcxproj -> H:\Downloads\CSC8502 2022\x64\Debug\Blank Project.exe
